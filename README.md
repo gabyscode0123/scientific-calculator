@@ -1,7 +1,3 @@
-# Scientific Calculator
-
-A cross-platform Flutter scientific calculator with a clean glass-style interface, responsive layout, and tested calculation behavior.
-
 ## Features
 
 - Basic arithmetic: addition, subtraction, multiplication, and division
