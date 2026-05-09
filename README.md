@@ -55,7 +55,3 @@ Run tests:
 ```bash
 flutter test
 ```
-
-## GitHub Upload
-
-The `git_repo/` folder contains the GitHub-ready copy of this project, including the same organized `lib/` source files, tests, platform folders, and Flutter configuration files.
